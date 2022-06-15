@@ -4,8 +4,8 @@ require_once(dirname(__FILE__) . '/paytm-sdk/encdec_paytm.php');
 
 
 define('PAYTM_ENVIRONMENT', 'PROD'); // PROD
-define('PAYTM_MERCHANT_KEY', 'qQcvYDWob!7juf9h'); //Change this constant's value with Merchant key downloaded from portal
-define('PAYTM_MERCHANT_MID', 'QOAItW13594127308746');  
+define('PAYTM_MERCHANT_KEY', 'qQc0Yass7juf9h'); //Change this constant's value with Merchant key downloaded from portal
+define('PAYTM_MERCHANT_MID', 'QOAI74411194127308746');  
 define('PAYTM_MERCHANT_WEBSITE', 'DEFAULT');  
 
 $PAYTM_DOMAIN = "pguat.paytm.com";
